@@ -1,0 +1,8 @@
+dimensions 700 700
+exposuredistance 50
+incubation 4
+sickness 7
+recover 0.8
+initialsick 3
+initialimmune 1
+grid 10 10
